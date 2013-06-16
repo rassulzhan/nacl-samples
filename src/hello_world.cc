@@ -3,7 +3,7 @@
  * found in the LICENSE file.
  */
 
-/** @file hello_world_gles.cc
+/** @file hello_nacl.cc
  * This example demonstrates loading and running a simple 3D openGL ES 2.0
  * application.
  */
