@@ -140,3 +140,5 @@ int ppapi_main(int argc, const char *argv[]) {
   g_Loaded = true;
   EventHandler();
 
+  return 0;
+}
